@@ -2,10 +2,10 @@ body {
 	background-color: #f5e3dd;
 }
    a:link {
-      color: #abb97e;
+      color: #dd7e80;
     }
     a:visited {
-  color: #dd7e80;
+  color: #925658;
 }
 h1 {
 	color: 161a1c;
@@ -13,3 +13,19 @@ h1 {
 #plant-photo {
 	padding-left: 15px;
     }
+
+.headline{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.body{
+    display:inline-block;
+    max-width:700px;
+    margin:0 auto;
+    padding:4px;
+    padding-left: 14px;
+}
+.title{
+   font-size: 18px;
+}
